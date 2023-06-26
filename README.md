@@ -17,35 +17,4 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 
-//test to see if the shapes are being created with color
-
-const { Triangle, Circle, Square } = require('./shapes');
-
-describe('Triangle', () => {
-    test('render returns a string', () => {
-        const triangle = new Triangle();
-        triangle.setColor('red');
-        expect(circle.render()).toequal('<polygon points="150, 18 244, 182 56, 182" fill="red" />');
-    });
-});
-
-describe('Circle', () => {
-    test('render returns a string', () => {
-        const circle = new Circle();
-        circle.setColor('blue');
-        expect(circle.render()).toequal('<circle cx="150" cy="150" r="100" fill="blue" />');
-    });
-});
-
-describe('Square', () => {
-    test('render returns a string', () => {
-        const square = new Square();
-        square.setColor('green');
-        expect(square.render()).toequal('<rect x="50" y="50" width="200" height="200" fill="green" />');
-    });
-});
-
-
-
-
 
