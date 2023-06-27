@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+       <circle cx="150" cy="150" r="100" fill="teal" />
+        <text x="150" y="150" fill="white" font-size="60" alignment-baseline="central" text-anchor="middle" >ERA</text>
+        </svg>
