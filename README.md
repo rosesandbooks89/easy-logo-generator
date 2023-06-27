@@ -1,4 +1,4 @@
-# Easy-Logo-enerator
+# Easy-Logo-Generator
 
 ## Table of Contents
 * [Installation](#installation)
@@ -55,7 +55,7 @@ This assignment was definitely harder as there was no base code to help get me s
 * https://jestjs.io/docs/asynchronous
 
 ## Link to Recording of Application
-https://dr
+Here is the link to the recording: https://drive.google.com/file/d/1LJmZhDCUpL43ZFPuMY5oAZ0DfSpPRaLP/view
 
 
 ## Questions
