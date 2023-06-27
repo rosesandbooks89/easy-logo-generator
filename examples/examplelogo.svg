@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+       <circle cx="150" cy="150" r="100" fill="green" />
+        <text x="150" y="160" fill="blue" font-size="60" text-anchor="middle">Luc</text>
+        </svg>
