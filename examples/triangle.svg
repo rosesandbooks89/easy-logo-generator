@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+       <polygon points="150, 0 244, 150 56, 150" fill="teal" />
+        <text x="150" y="120" fill="black" font-size="60" text-anchor="middle" >ERA</text>
+        </svg>
