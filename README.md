@@ -46,7 +46,7 @@ AND the output text "Generated logo.svg" is printed in the command line
 * THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Struggles and Sources
-This assignment was definitely harder as there was no base code to help get me started. I primarly used and refered back to the inclass activities to help me get started. My tutor was a big help especially with getting my code to work. I also used the following resources to help me complete this assignment:
+This assignment was definitely harder as there was no base code to help get me started. I primarily used and referred back to the in-class activities to help me get started. My tutor was a big help especially with getting my code to work. I also used the following resources to help me complete this assignment:
 * https://en.wikipedia.org/wiki/SVG
 * https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 * https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
@@ -59,7 +59,7 @@ Here is the link to the recording: https://drive.google.com/file/d/1LJmZhDCUpL43
 
 
 ## Questions
-If you have any questions, please contact me at the email below. Check out my Github portfolio for more of my projects!
+If you have any questions, please contact me at the email below. Check out my GitHub portfolio for more of my projects!
 
 Here is a link to my [GitHub Repo](https://github.com/rosesandbooks89).
 
